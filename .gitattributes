@@ -1,0 +1,5 @@
+# set LF for sh files
+*.sh text=auto eol=lf
+
+# set CRLF for sh files
+*.bat text=auto eol=crlf
