@@ -1,0 +1,22 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="19.509"
+  height="19.768"
+  viewBox="0 0 19.509 19.768"
+>
+  <g
+    id="Arrow_Back"
+    data-name="Arrow Back"
+    transform="translate(18.884 18.884) rotate(180)"
+  >
+    <path
+      id="Icon"
+      d="M199.8,482.9l9,9h-18m9,9,9-9"
+      transform="translate(-190.8 -482.904)"
+      fill="none"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="1.25"
+    />
+  </g>
+</svg>

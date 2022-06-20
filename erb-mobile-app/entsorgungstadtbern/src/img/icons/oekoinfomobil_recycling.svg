@@ -1,0 +1,96 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="40.271"
+  height="37.45"
+  viewBox="0 0 40.271 37.45"
+><defs><style
+    >.a,.b{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25px;}.a{}.b{stroke:#83a3be;}</style></defs><g
+    transform="translate(0.625 0.625)"
+  ><g transform="translate(-3885 -358)"><g transform="translate(3885 375)"><line
+          class="a"
+          y2="8.533"
+          transform="translate(32 8.533)"
+        /><circle
+          class="a"
+          cx="3.2"
+          cy="3.2"
+          r="3.2"
+          transform="translate(4.267 12.8)"
+        /><circle
+          class="a"
+          cx="3.2"
+          cy="3.2"
+          r="3.2"
+          transform="translate(21.333 12.8)"
+        /><line
+          class="a"
+          x1="4.451"
+          transform="translate(27.549 17.067)"
+        /><line
+          class="a"
+          x1="11.037"
+          transform="translate(10.482 17.067)"
+        /><line class="a" x1="4.451" transform="translate(0 17.067)" /><line
+          class="a"
+          x1="21.333"
+          transform="translate(2.133 0)"
+        /><line class="a" y2="6.4" transform="translate(23.467 0)" /><path
+          class="a"
+          d="M4215,465a2.132,2.132,0,0,0,2.133,2.133"
+          transform="translate(-4191.533 -458.6)"
+        /><line class="a" x2="6.4" transform="translate(25.6 8.533)" /><line
+          class="a"
+          y2="8.533"
+          transform="translate(0 8.533)"
+        /><line class="a" x1="4.267" transform="translate(23.467 0)" /><path
+          class="a"
+          d="M4279.267,383.533c0-4.717-1.908-8.533-4.267-8.533"
+          transform="translate(-4247.267 -375)"
+        /><path
+          class="a"
+          d="M3885,377.133a2.132,2.132,0,0,1,2.133-2.133"
+          transform="translate(-3885 -375)"
+        /><line class="a" y1="6.4" transform="translate(0 2.133)" /></g><line
+        class="a"
+        y2="5.689"
+        transform="translate(3888.627 378.769)"
+      /><path
+        class="a"
+        d="M3969,433.689V428l3.413,5.689V428"
+        transform="translate(-78.027 -49.231)"
+      /><g transform="translate(3896.733 378.769)"><path
+          class="a"
+          d="M4050,433.689V428h3.413"
+          transform="translate(-4050.001 -428)"
+        /><line class="a" x1="2.619" transform="translate(0 3.2)" /></g><ellipse
+        class="a"
+        cx="1.707"
+        cy="2.844"
+        rx="1.707"
+        ry="2.844"
+        transform="translate(3901.569 378.769)"
+      /></g><g transform="translate(-150 -84)"><path
+        class="b"
+        d="M178.142,105.217a3.119,3.119,0,0,1-2.859-1.263,2.936,2.936,0,0,1,.348-3.036L178.03,97"
+        transform="translate(0 -9.044)"
+      /><path
+        class="b"
+        d="M199.724,107.347l.471.769a2.936,2.936,0,0,1,.348,3.036,3.119,3.119,0,0,1-2.859,1.263H192"
+        transform="translate(-11.826 -16.241)"
+      /><path
+        class="b"
+        d="M188.224,86.333l.343-.559a2.841,2.841,0,0,1,5.265,0l2.269,3.7"
+        transform="translate(-9.199)"
+      /><path
+        class="b"
+        d="M193.826,121.652,192,119.826,193.826,118"
+        transform="translate(-11.826 -23.652)"
+      /><path
+        class="b"
+        d="M209.043,94l-.54,2.573-2.5-.747"
+        transform="translate(-21.565 -6.957)"
+      /><path
+        class="b"
+        d="M177,97.609,179.435,97l.913,2.13"
+        transform="translate(-1.391 -9.044)"
+      /></g></g></svg>
