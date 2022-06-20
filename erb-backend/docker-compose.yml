@@ -1,0 +1,42 @@
+version: "3.9"
+
+services:
+    api-v1:
+        build: ./db-api-express
+        image: erb-app-api:dev
+        env_file:
+            - .env
+        environment:
+            - MYSQL_DATABASE=erb-app-v1
+        volumes:
+            - mountedDBStorage:/home/node/app/mountData
+
+    api-test:
+        build: ./db-api-express
+        image: erb-app-api:dev
+        env_file:
+            - .env
+        environment:
+            - MYSQL_DATABASE=erb-app-test
+            - DB_SYNC_TARGET=erb-app-v1
+        volumes:
+            - mountedDBStorage:/home/node/app/mountData
+
+    backend:
+        build: ./hybrid-app-erb-server
+        image: erb-app-backend:dev
+        ports:
+            - 80:80
+        env_file:
+            - .env
+
+    mysql:
+        build: ./mysql
+        image: erb-app-mysql:8.0.26
+        volumes:
+            - mountedDBStorage:/var/lib/mysql
+        env_file:
+            - .env
+
+volumes:
+    mountedDBStorage:

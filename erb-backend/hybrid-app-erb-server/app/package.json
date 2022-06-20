@@ -1,0 +1,50 @@
+{
+  "name": "hybrid-app-erb-server",
+  "homepage": "http://npfister.ch/backend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/app": "^0.7.0",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "core-js": "^2.6.12",
+    "firebase-admin": "^9.11.1",
+    "googleapis": "^87.0.0",
+    "http2": "^3.3.7",
+    "jodit-react": "^1.1.1",
+    "jodit-react-ts": "^0.8.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-modal": "^3.14.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "PORT=80 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
