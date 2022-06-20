@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "entsorgung-stadt-bern",
+    "storage_bucket": "entsorgung-stadt-bern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "000",
+        "android_client_info": {
+          "package_name": "ch.glue.erb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "000.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "000.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,75 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="40.54"
+  height="22.837"
+  viewBox="0 0 40.54 22.837"
+><defs><style
+    >.a{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25px;}</style></defs><g
+    transform="translate(0.625 0.742)"
+  ><g transform="translate(-3066 -1080)"><line
+        class="a"
+        y2="8.588"
+        transform="translate(3105.29 1090.735)"
+      /><circle
+        class="a"
+        cx="3.22"
+        cy="3.22"
+        r="3.22"
+        transform="translate(3081.673 1095.029)"
+      /><circle
+        class="a"
+        cx="3.221"
+        cy="3.221"
+        r="3.221"
+        transform="translate(3095.628 1095.029)"
+      /><line
+        class="a"
+        x1="3.415"
+        transform="translate(3101.875 1099.323)"
+      /><line
+        class="a"
+        x1="7.897"
+        transform="translate(3087.922 1099.323)"
+      /><line
+        class="a"
+        x1="4.294"
+        transform="translate(3093.482 1082.147)"
+      /><line
+        class="a"
+        y2="6.441"
+        transform="translate(3097.775 1082.147)"
+      /><path
+        class="a"
+        d="M3510,1200a2.146,2.146,0,0,0,2.147,2.147"
+        transform="translate(-412.224 -111.412)"
+      /><line
+        class="a"
+        x2="5.368"
+        transform="translate(3099.923 1090.735)"
+      /><line
+        class="a"
+        x2="17.176"
+        transform="translate(3076.305 1095.029)"
+      /><path class="a" d="M3079.526,1080l-3.22,15.029-6.191,4.33H3066" /><path
+        class="a"
+        d="M3092,1099.323v-10.95l5.224-8.373h20.4"
+        transform="translate(-24.139)"
+      /><line
+        class="a"
+        y1="15.029"
+        transform="translate(3093.482 1080)"
+      /><circle
+        class="a"
+        cx="3.22"
+        cy="3.22"
+        r="3.22"
+        transform="translate(3075.232 1095.029)"
+      /><line
+        class="a"
+        x1="3.22"
+        transform="translate(3097.775 1082.147)"
+      /><path
+        class="a"
+        d="M3559.294,1118.588c0-4.747-1.921-8.588-4.294-8.588"
+        transform="translate(-454.004 -27.853)"
+      /></g></g></svg>
